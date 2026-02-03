@@ -80,7 +80,7 @@ stateDiagram-v2
     failed --> retrying
     retrying --> sent
     retrying --> [*]
-    ```
+```
 
 ## Завдання 4: ADR
 
